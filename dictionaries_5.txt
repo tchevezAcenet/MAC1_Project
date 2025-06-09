@@ -1,0 +1,103 @@
+[{
+    'review daily goals': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'gratitude journaling': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'write a reflection': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': True
+    },
+    'limit caffeine intake': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': True
+    },
+    'go for a walk': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'study for 1 hour': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'plan meals': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': False
+    }
+}
+,
+{
+    'Monday': {
+        'brainstorm project ideas': False,
+        'update resume': False,
+        'schedule appointments': True
+    },
+    'Tuesday': {
+        'plan weekly goals': False,
+        'prepare meeting notes': True,
+        'submit application': False
+    },
+    'Wednesday': {
+        'read industry news': True,
+        'brainstorm project ideas': True,
+        'schedule appointments': True
+    },
+    'Thursday': {
+        'log work hours': False,
+        'prepare meeting notes': False,
+        'read industry news': True
+    },
+    'Friday': {
+        'pay bills': False,
+        'attend virtual class': False,
+        'update resume': True
+    },
+    'Saturday': {
+        'finish assignment': True,
+        'prepare meeting notes': True,
+        'pay bills': True
+    },
+    'Sunday': {
+        'log work hours': False,
+        'do coursework': True,
+        'organize files': True
+    }
+}]

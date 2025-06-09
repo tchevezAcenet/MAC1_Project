@@ -1,0 +1,130 @@
+[{
+    'limit caffeine intake': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'hydrate hourly': {
+        'Monday': True,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'review daily goals': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': True
+    },
+    'plan meals': {
+        'Monday': True,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'practice a hobby': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'cook a healthy meal': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'limit screen time before bed': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'take vitamins': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'do yoga': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'do a digital declutter': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': False
+    }
+}
+,
+{
+    'Monday': {
+        'reply to emails': True,
+        'submit application': True,
+        'backup important files': True
+    },
+    'Tuesday': {
+        'practice presentation': True,
+        'submit application': False,
+        'finish assignment': False
+    },
+    'Wednesday': {
+        'reply to emails': False,
+        'pay bills': True,
+        'finish assignment': True
+    },
+    'Thursday': {
+        'check in with team': True,
+        'read industry news': True,
+        'organize workspace': False
+    },
+    'Friday': {
+        'read research paper': True,
+        'pay bills': False,
+        'check in with team': True
+    },
+    'Saturday': {
+        'backup important files': True,
+        'plan weekly goals': True,
+        'log work hours': True
+    },
+    'Sunday': {
+        'do coursework': False,
+        'submit application': True,
+        'schedule appointments': True
+    }
+}]

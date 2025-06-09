@@ -1,0 +1,110 @@
+[{
+    'review daily goals': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': True
+    },
+    'stay off social media': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'hydrate hourly': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'study for 1 hour': {
+        'Monday': True,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': True
+    },
+    'stretch for 15 minutes': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'cook a healthy meal': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': True
+    },
+    'gratitude journaling': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': True
+    }
+}
+,
+{
+    'Monday': {
+        'schedule appointments': False,
+        'update resume': False,
+        'record study notes': True,
+        'organize files': True
+    },
+    'Tuesday': {
+        'prepare meeting notes': True,
+        'finish assignment': False,
+        'organize workspace': False,
+        'plan weekly goals': True
+    },
+    'Wednesday': {
+        'organize workspace': True,
+        'backup important files': True,
+        'practice presentation': True,
+        'submit application': True
+    },
+    'Thursday': {
+        'practice presentation': False,
+        'reply to emails': True,
+        'organize workspace': True,
+        'brainstorm project ideas': True
+    },
+    'Friday': {
+        'schedule appointments': False,
+        'organize workspace': False,
+        'pay bills': False,
+        'update resume': True
+    },
+    'Saturday': {
+        'plan weekly goals': False,
+        'backup important files': True,
+        'organize files': False,
+        'organize workspace': False
+    },
+    'Sunday': {
+        'schedule appointments': True,
+        'reply to emails': True,
+        'record study notes': True,
+        'read industry news': False
+    }
+}]

@@ -1,0 +1,112 @@
+[{
+    'limit screen time before bed': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'write a gratitude list': {
+        'Monday': True,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'practice an instrument': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'eat 3 servings of vegetables': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'stretch for 5 minutes': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'take a 10-minute walk': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'study for 1 hour': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'spend 15 minutes decluttering': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': True,
+        'Sunday': True
+    }
+}
+,
+{
+    'Monday': {
+        'call a friend': True,
+        'submit assignment': True,
+        'plan meals': False
+    },
+    'Tuesday': {
+        'backup files': False,
+        'organize desk': False,
+        'reply to emails': False
+    },
+    'Wednesday': {
+        'plan meals': False,
+        'organize desk': True,
+        'reply to emails': True
+    },
+    'Thursday': {
+        'reply to emails': False,
+        'call a friend': False,
+        'backup files': False
+    },
+    'Friday': {
+        'submit assignment': False,
+        'backup files': False,
+        'plan meals': False
+    },
+    'Saturday': {
+        'attend online lecture': True,
+        'plan meals': True,
+        'reply to emails': False
+    },
+    'Sunday': {
+        'backup files': True,
+        'write blog post': True,
+        'submit assignment': False
+    }
+}]

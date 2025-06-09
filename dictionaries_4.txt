@@ -1,0 +1,114 @@
+[{
+    'stretch for 15 minutes': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'cook a healthy meal': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'gratitude journaling': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'study for 1 hour': {
+        'Monday': True,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'write a to-do list': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'limit caffeine intake': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'practice a hobby': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': True
+    },
+    'review daily goals': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'go for a walk': {
+        'Monday': False,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': False
+    }
+}
+,
+{
+    'Monday': {
+        'organize workspace': False,
+        'do coursework': False
+    },
+    'Tuesday': {
+        'read industry news': False,
+        'plan weekly goals': True
+    },
+    'Wednesday': {
+        'pay bills': True,
+        'backup important files': True
+    },
+    'Thursday': {
+        'prepare meeting notes': True,
+        'attend virtual class': True
+    },
+    'Friday': {
+        'finish assignment': True,
+        'attend virtual class': True
+    },
+    'Saturday': {
+        'read research paper': False,
+        'do coursework': True
+    },
+    'Sunday': {
+        'submit application': False,
+        'attend virtual class': True
+    }
+}]

@@ -1,0 +1,94 @@
+[{
+    'take vitamins': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'limit caffeine intake': {
+        'Monday': True,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'write a to-do list': {
+        'Monday': True,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': False,
+        'Sunday': True
+    },
+    'cook a healthy meal': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    },
+    'gratitude journaling': {
+        'Monday': False,
+        'Tuesday': False,
+        'Wednesday': False,
+        'Thursday': False,
+        'Friday': False,
+        'Saturday': True,
+        'Sunday': False
+    },
+    'limit screen time before bed': {
+        'Monday': True,
+        'Tuesday': True,
+        'Wednesday': True,
+        'Thursday': True,
+        'Friday': True,
+        'Saturday': False,
+        'Sunday': False
+    }
+}
+,
+{
+    'Monday': {
+        'read research paper': False,
+        'plan weekly goals': True,
+        'attend virtual class': True
+    },
+    'Tuesday': {
+        'prepare meeting notes': False,
+        'organize files': False,
+        'attend virtual class': False
+    },
+    'Wednesday': {
+        'pay bills': True,
+        'brainstorm project ideas': False,
+        'read research paper': False
+    },
+    'Thursday': {
+        'practice presentation': False,
+        'backup important files': False,
+        'prepare meeting notes': True
+    },
+    'Friday': {
+        'submit application': True,
+        'pay bills': True,
+        'read industry news': True
+    },
+    'Saturday': {
+        'practice presentation': False,
+        'pay bills': True,
+        'read research paper': True
+    },
+    'Sunday': {
+        'do coursework': True,
+        'brainstorm project ideas': True,
+        'finish assignment': False
+    }
+}]
